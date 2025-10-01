@@ -9,8 +9,6 @@
 
 ![devsRamon GitHub stats](https://github-readme-stats.vercel.app/api?username=devsRamon&show_icons=true&theme=tokyonight) 
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"  />
-
 ## Tecnologias que eu uso para programar:
 
 <div align="left">
@@ -32,3 +30,7 @@
 
 ## Meus ultimos projetos:
 -
+
+
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"  />
