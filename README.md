@@ -43,4 +43,4 @@
 </div>
 
 <h2 align="left">Meus Projetos: </h2>
-  <li>https://github.com/LuizP2/STATION.git</li> 
+  <ul><li>https://github.com/LuizP2/STATION.git</li></ul> 
