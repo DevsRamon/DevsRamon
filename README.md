@@ -33,4 +33,4 @@
 
 
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"  />
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"  />
