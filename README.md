@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou o Ramon Silveira 👋</h2>
+<h2 align="left">Hi! I'm Ramon Silveira 👋</h2>
 
 ###
 
@@ -11,34 +11,32 @@
 <br>
 
 
-<h2 align="left">Algumas Tecnologias que eu uso:</h2>
+<h2 align="left">Some technologies that I use:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,laravel,py,html,css,js,nodejs,ts,react,tailwind," />
+  </a>
+</p>
+<h3>My favorite technology:</h3>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+  </a>
+</p>
 </div>
 
-<h2 align="left">Meus Projetos: </h2>
+<h2 align="left">I am studying</h2>
+<div align="left">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,aws" />
+  </a>
+</p>
+</div>
+
+<h2 align="left">My projects: </h2>
   <ul><li>https://github.com/LuizP2/STATION.git](https://github.com/Speake-oficial</li></ul> 
-  <img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"/>
   <div align="left">
 </div>
