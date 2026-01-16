@@ -1,6 +1,9 @@
-<h2 align="left">Hi! I'm Ramon Silveira 👋</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=017aff&height=120&section=header" alt="header"/>
 
-###
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=017aff&width=435&lines=Hello%2C+it's+Ramon+Silveira;Full+Stack+Developer" alt="Business Analyst"/>
+</a>
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -11,12 +14,12 @@
 <br>
 
 
-<h2 align="left">Some technologies that I use:</h2>
+<h2 align="left">Main skill:</h2>
 
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,laravel,py,html,css,js,nodejs,ts,react,tailwind," />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,php,laravel,py,html,css,js,nodejs,ts,react,tailwind," />
   </a>
 </p>
 <h3>My favorite technology:</h3>
@@ -27,7 +30,7 @@
 </p>
 </div>
 
-<h2 align="left">I am studying:</h2>
+<h3 align="left">I am studying:</h3>
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
