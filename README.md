@@ -10,11 +10,6 @@
 </div>
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevsRamon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif" />
-</div>
-
 
 <h2 align="left">Algumas Tecnologias que eu uso:</h2>
 
@@ -44,3 +39,6 @@
 
 <h2 align="left">Meus Projetos: </h2>
   <ul><li>https://github.com/LuizP2/STATION.git</li></ul> 
+  <div align="left">
+<img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2OHRzZGxlMXBjcXp6dTUxNnRkMTl2bXQ0a3QyNndpcmlzbXZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif" />
+</div>
