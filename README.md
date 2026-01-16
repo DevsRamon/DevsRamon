@@ -27,7 +27,7 @@
 </p>
 </div>
 
-<h2 align="left">I am studying</h2>
+<h2 align="left">I am studying:</h2>
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
