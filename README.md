@@ -5,7 +5,7 @@
 </a>
 
 <div>
-    <img src="./assets/about_Ramon.gif" width="1200"/>
+    <img src="./assets/about_Ramon.gif"/>
 </div>
 
 <br>
