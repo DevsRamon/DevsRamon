@@ -32,6 +32,10 @@
   </a>
 </p>
 
+### Contact:
+[![Gmail](https://img.shields.io/badge/Email-ramon.dev2003@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=3854d7)](mailto:ramon.dev2003@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Ramon-blue?style=for-the-badge&logo=discord&logoColor=FFFFFF&color=3854d7)](https://discord.gg/https://discord.com/users/1013248275702349915)
+
 <h2 align="left">My projects: </h2>
   <ul><li>https://github.com/Speake-oficial</li></ul> 
   <div align="left">
