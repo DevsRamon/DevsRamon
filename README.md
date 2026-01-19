@@ -11,12 +11,12 @@
 <br>
 
 
-<h2 align="left">Main skill:</h2>
-
-<div align="left">
+<h3 align="left">Main skill:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,php,laravel,py,html,css,js,nodejs,ts,react,tailwind," />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,php,laravel,py,git" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,ts,react,tailwind," />
   </a>
 </p>
 <h3>My favorite technology:</h3>
@@ -25,16 +25,12 @@
     <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
 </p>
-</div>
-
 <h3 align="left">I am studying:</h3>
-<div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=go,docker,aws,azure" />
   </a>
 </p>
-</div>
 
 <h2 align="left">My projects: </h2>
   <ul><li>https://github.com/Speake-oficial</li></ul> 
